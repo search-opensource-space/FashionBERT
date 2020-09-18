@@ -1,4 +1,4 @@
-# FashionBERT(Alibaba)
+# FashionBERT
 
 FashionBERT is released and the detail information is shown https://github.com/alibaba/EasyTransfer/tree/master/scripts/fashion_bert.
 
