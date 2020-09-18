@@ -1,6 +1,6 @@
 # FashionBERT(Alibaba)
 
-FashionBERT will be released soon!
+FashionBERT is released and the detail information is shown https://github.com/alibaba/EasyTransfer/tree/master/scripts/fashion_bert.
 
 # Reference
 
